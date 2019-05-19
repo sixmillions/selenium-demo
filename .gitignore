@@ -1,0 +1,8 @@
+#pycharm的环境
+.idea/
+
+#忽略venv下面的内容和venv文件
+venv/
+
+#忽略picture下面的文件
+picture/:
